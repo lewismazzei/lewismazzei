@@ -2,6 +2,6 @@ Computer Science BSc Graduate @ University of St Andrews, Scotland
 
 Previously
 
-> [Float](floatapp.com)
+> [Float](https://floatapp.com)
 
-> [MarkToMarket](marktomarket.io)
+> [MarkToMarket](https://marktomarket.io)
