@@ -1,4 +1,4 @@
-Scottish CS Graduate (UStA, Scotland)
+Computer Science BSc Graduate @ University of St Andrews, Scotland
 
 Previously
 
