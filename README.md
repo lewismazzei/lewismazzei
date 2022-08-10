@@ -1,4 +1,4 @@
-Final Year CompSci Student @ University of St Andrews
+Scottish CS Graduate (UStA, Scotland)
 
 Previously
 
