@@ -1,7 +1,13 @@
-Computer Science BSc Graduate @ University of St Andrews, Scotland
+Software Engineer | Remote Contractor / Freelancer
+
+---
+
+Currently
+
+> [Behavioural Finance](https://www.behaviouralfinance.co.uk/)
 
 Previously
 
-> [Float](https://floatapp.com)
-
 > [MarkToMarket](https://marktomarket.io)
+
+> [Float](https://floatapp.com)
