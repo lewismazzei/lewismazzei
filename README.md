@@ -1,6 +1,6 @@
 ---
 
-Software Engineer | Remote Contractor / Freelancer
+Remote Software Engineer
 
 ---
 
